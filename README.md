@@ -5,6 +5,8 @@ Unlock the power of secure object storage by seamlessly integrating MinIO with K
 
 ## Step 1 :  Vault Installation
 
+### Download the vault in your system
+
 ### 1. Generate Vault Private Key & Certificate
 KES and Vault will exchange sensitive information. so need to create a private key and certificate for this ip address : 127.0.0.
 #### Note:
